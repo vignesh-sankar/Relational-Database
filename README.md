@@ -1,5 +1,5 @@
 # Relational-Database
-Relational database Manager
+Relational database Manager contains the following folders.
 
 Record Based File Manager(rbf) folder contains the code that implements File and Access Maanger and the record manager.
 It includes code for file operations(creation, deletion etc) and record level operations(add/delete/update/scan record/records).
